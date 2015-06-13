@@ -1,0 +1,6 @@
+test pour utiliser les autotools
+pour ne plus avoir qu'a faire :
+test configure
+test make install
+
+et ca compile a la place de gcc test.c -lpcap -o lsniffer
